@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <string.h>
+
 #include "header.h"
 
 void file_inclusion(FILE *fp, FILE *out)
