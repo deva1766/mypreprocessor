@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <string.h>
+
 #include "header.h"
 
 void macro_handler(FILE *fp, FILE *out)
