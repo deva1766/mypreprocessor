@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 void remove_comments(FILE *, FILE *);
 void file_inclusion(FILE *, FILE *);
